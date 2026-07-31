@@ -1,2 +1,2 @@
 # AguiarFin
-app de financas
+app de organizacao de financas
